@@ -21,6 +21,14 @@ Floor_oper.py	Demonstrates floor division or related floor operator
 Moduals_oper.py	Shows modular arithmetic (remainder) operations
 README.md	This readme file describing the repo
 
+🧵 String Operations
+
+-This repository now includes examples of common string operations in Python:
+-string_concatenation.py: Demonstrates how to concatenate strings using the + operator.
+-string_repetition.py: Shows how to repeat strings using the * operator.
+-string_slicing.py: Illustrates how to slice strings to extract substrings.
+-string_methods.py: Provides examples of various string methods like upper(), lower(), replace(), and more.
+
 Note: Some filenames include typos (e.g. “poer” instead of “power”, “Moduals” instead of “Modulus”). You may want to rename them for clarity.
 🧩 Usage
 
